@@ -38,6 +38,6 @@ Compound components are something that I recently discovered and I'm excited to 
   - [x] firebase
   - [x] fuse.js
   - [x] normalize.css
-  - [ ] react-router-dom
+  - [x] react-router-dom
   - [x] styled-components
 - [x] Folder cleanup
