@@ -37,7 +37,7 @@ Compound components are something that I recently discovered and I'm excited to 
 - [ ] Install dependencies
   - [x] firebase
   - [x] fuse.js
-  - [ ] normalize.css
+  - [x] normalize.css
   - [ ] react-router-dom
   - [x] styled-components
 - [x] Folder cleanup
