@@ -34,10 +34,21 @@ Compound components are something that I recently discovered and I'm excited to 
 #### Setup
 
 - [x] Create React App
-- [ ] Install dependencies
+- [x] Install dependencies
   - [x] firebase
   - [x] fuse.js
   - [x] normalize.css
   - [x] react-router-dom
   - [x] styled-components
 - [x] Folder cleanup
+- [x] Create fixtures files for data displayed on homepage
+  - [x] Jumbotron
+  - [x] FAQ's
+
+#### Front End
+
+- [ ] Build the Homepage
+  - [ ] Hero element
+  - [ ] Jumbotron
+  - [ ] FAQ's
+  - [ ] Footer
