@@ -22,9 +22,9 @@ Compound components are something that I recently discovered and I'm excited to 
 
 #### Prep
 
-- [ ] Figure out architecture
-- [ ] Source photos
-- [ ] Source videos
+- [x] Figure out architecture
+- [x] Source photos
+- [x] Source videos
 
 #### Setup
 
@@ -35,3 +35,4 @@ Compound components are something that I recently discovered and I'm excited to 
   - [ ] normalize.css
   - [ ] react-router-dom
   - [ ] styled-components
+- [x] Folder cleanup
