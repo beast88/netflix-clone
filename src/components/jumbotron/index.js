@@ -1,3 +1,4 @@
+// Jumbotron component
 import React from 'react';
 import { Container, Inner, Pane, Title, Subtitle, Image, Item } from './styles/jumbotron';
 
