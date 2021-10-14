@@ -1,16 +1,23 @@
 {
   "env": {
-    "browser": true,
-    "es2021": true
+    "browser": true
   },
-  "extends": ["airbnb", "prettier", "prettier/react"],
+  "extends": ["airbnb", "prettier"],
+  "parser": "babel-eslint",
   "parserOptions": {
     "ecmaFeatures": {
-      "jsx": true
+      "experimentalObjectRestSpread": true,
+      "classes": true
     },
     "ecmaVersion": 8,
     "sourceType": "module"
   },
   "plugins": ["react", "react-hooks", "prettier"],
-  "rules": {}
+  "rules": {
+    "react/prop-types": 0,
+    "arrow-body-style": 0,
+    "import/prefer-default-export": 0,
+    "react/jsx-props-no-spreading": 0,
+    "react/jsx-filename-extension": 0
+  }
 }

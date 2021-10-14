@@ -42,6 +42,7 @@ Compound components are something that I recently discovered and I'm excited to 
   - [x] styled-components
   - [x] prettier
   - [x] eslint
+  - [x] babel
 - [x] Folder cleanup
 - [x] Create fixtures files for data displayed on homepage
   - [x] Jumbotron
@@ -51,6 +52,6 @@ Compound components are something that I recently discovered and I'm excited to 
 
 - [ ] Build the Homepage
   - [ ] Hero element
-  - [ ] Jumbotron
+  - [x] Jumbotron
   - [ ] FAQ's
   - [ ] Footer
