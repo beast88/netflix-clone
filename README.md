@@ -15,7 +15,7 @@ Compound components are something that I recently discovered and I'm excited to 
 #### Frontend
 
 - React JS
-- normalize.js - makes the browser render elements in a consistent way
+- normalize.css - makes the browser render elements in a consistent way
 - fuse.js - a search library to handle user search inputs
 - styled-components - to render reusable components with in-built styles
 
@@ -40,6 +40,8 @@ Compound components are something that I recently discovered and I'm excited to 
   - [x] normalize.css
   - [x] react-router-dom
   - [x] styled-components
+  - [x] prettier
+  - [x] eslint
 - [x] Folder cleanup
 - [x] Create fixtures files for data displayed on homepage
   - [x] Jumbotron
