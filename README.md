@@ -52,6 +52,7 @@ Compound components are something that I recently discovered and I'm excited to 
 
 - [ ] Build the Homepage
   - [ ] Hero element
+  - [ ] Opt In Form
   - [x] Jumbotron
-  - [ ] FAQ's
-  - [ ] Footer
+  - [x] FAQ's (Accordion)
+  - [x] Footer
