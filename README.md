@@ -50,9 +50,10 @@ Compound components are something that I recently discovered and I'm excited to 
 
 #### Front End
 
+- [ ] Set up architecture for react router
 - [ ] Build the Homepage
   - [ ] Hero element
-  - [ ] Opt In Form
+  - [x] Opt In Form
   - [x] Jumbotron
   - [x] FAQ's (Accordion)
   - [x] Footer
