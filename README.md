@@ -51,8 +51,10 @@ Compound components are something that I recently discovered and I'm excited to 
 #### Front End
 
 - [x] Set up architecture for react router
-- [ ] Build the Homepage (Header)
-  - [ ] Hero element
+- [x] Build the Homepage
+  - [x] Hero element (Header)
+    - [x] Include feature component
+    - [x] Include Opt Form
   - [x] Opt In Form
   - [x] Jumbotron
   - [x] FAQ's (Accordion)
