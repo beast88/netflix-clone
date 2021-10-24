@@ -48,6 +48,15 @@ Compound components are something that I recently discovered and I'm excited to 
   - [x] Jumbotron
   - [x] FAQ's
 
+#### Firebase
+
+- [x] Set up firebase file
+- [x] Set up firebase console
+  - [x] Set up firestore database
+- [x] Set up seed file
+  - [x] Prevent future seeding (duplication)
+- [x] Set up env file
+
 #### Front End
 
 - [x] Set up architecture for react router
@@ -59,3 +68,6 @@ Compound components are something that I recently discovered and I'm excited to 
   - [x] Jumbotron
   - [x] FAQ's (Accordion)
   - [x] Footer
+- [ ] Sign up Page
+- [ ] Sign in Page
+- [ ] Browse Page
