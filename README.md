@@ -56,6 +56,7 @@ Compound components are something that I recently discovered and I'm excited to 
 - [x] Set up seed file
   - [x] Prevent future seeding (duplication)
 - [x] Set up env file
+- [x] Set up authentication method
 
 #### Front End
 
@@ -69,5 +70,11 @@ Compound components are something that I recently discovered and I'm excited to 
   - [x] FAQ's (Accordion)
   - [x] Footer
 - [ ] Sign up Page
-- [ ] Sign in Page
+  - [ ] Reuse Sign in form component
+- [x] Sign in Page
+  - [x] Include Header component
+  - [x] Include Footer component
+  - [x] Sign in form component
+    - [x] Form component needs to handle errors
+    - [x] Firebase connection
 - [ ] Browse Page
