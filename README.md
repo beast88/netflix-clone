@@ -19,6 +19,10 @@ Compound components are something that I recently discovered and I'm excited to 
 - fuse.js - a search library to handle user search inputs
 - styled-components - to render reusable components with in-built styles
 
+#### Backend
+
+- firebase
+
 ### Notes
 
 ## Tasks
@@ -69,8 +73,8 @@ Compound components are something that I recently discovered and I'm excited to 
   - [x] Jumbotron
   - [x] FAQ's (Accordion)
   - [x] Footer
-- [ ] Sign up Page
-  - [ ] Reuse Sign in form component
+- [x] Sign up Page
+  - [x] Reuse Sign in form component
 - [x] Sign in Page
   - [x] Include Header component
   - [x] Include Footer component
@@ -78,3 +82,7 @@ Compound components are something that I recently discovered and I'm excited to 
     - [x] Form component needs to handle errors
     - [x] Firebase connection
 - [ ] Browse Page
+
+#### Functionality
+
+- [ ] Maintain user state across app once they are logged in
